@@ -348,6 +348,7 @@ interface Styles {
   textInput: StyleProp<TextStyle>;
   loader: StyleProp<ViewStyle>;
   listView: StyleProp<ViewStyle>;
+  listViewContainer: StyleProp<ViewStyle>;
   predefinedPlacesDescription: StyleProp<TextStyle>;
   poweredContainer: StyleProp<ViewStyle>;
   powered: StyleProp<ImageStyle>;
